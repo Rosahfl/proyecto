@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1759118477086,
+  "timestamp": 1759120172032,
   "index": "/proyecto/index.csr.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/proyecto/favicon.ico",
         "/proyecto/index.csr.html",
         "/proyecto/index.html",
-        "/proyecto/main-SOAZ3SMW.js",
+        "/proyecto/main-TUVB4JVP.js",
         "/proyecto/manifest.webmanifest",
         "/proyecto/styles-VF4PMNXL.css"
       ],
@@ -32,7 +32,6 @@
         "/proyecto/assets/img/galletas.jpeg",
         "/proyecto/assets/img/inf.jpg",
         "/proyecto/assets/img/per.jpg",
-        "/proyecto/assets/img/pu.jpeg",
         "/proyecto/assets/img/tor.jpg",
         "/proyecto/assets/img/torta.jpg",
         "/proyecto/icons/icon-128x128.png",
@@ -53,7 +52,6 @@
     "/proyecto/assets/img/galletas.jpeg": "20ac1f7d3ffe8639e3f07ceef01194faac4472f6",
     "/proyecto/assets/img/inf.jpg": "b40e42e81ca4a4a6713999ef1721fbbf09ae346d",
     "/proyecto/assets/img/per.jpg": "efa8bcbe424c85ed6860af518fd337ecae76db5a",
-    "/proyecto/assets/img/pu.jpeg": "bda62eae8594e32a9d26773b974e1d86872e5b9d",
     "/proyecto/assets/img/tor.jpg": "e79257bb25f7e8c075e7805d5c27f555a72e0a4d",
     "/proyecto/assets/img/torta.jpg": "bd4814462d52db2b64a512920a94a05b36855d9a",
     "/proyecto/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
@@ -65,9 +63,9 @@
     "/proyecto/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/proyecto/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/proyecto/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/proyecto/index.csr.html": "3cc566b22c8e0bfa99a9538b19f2d86fff75945c",
-    "/proyecto/index.html": "6ad829e2f3a097aa9090ca4e34b31721bdc2166a",
-    "/proyecto/main-SOAZ3SMW.js": "b855d8e2300564db69e968e958d0c7fd6b0d13e6",
+    "/proyecto/index.csr.html": "a7012d9496f03b671f8ec8176e3d6a0b3032050a",
+    "/proyecto/index.html": "69e4f084c62086af75ef4733deb816cf71368eba",
+    "/proyecto/main-TUVB4JVP.js": "ecc7b909c9456d9ff0a69da9f3e56c04a0d2c9f2",
     "/proyecto/manifest.webmanifest": "fda88743228f8975d93af2c805686057df0c3ac6",
     "/proyecto/styles-VF4PMNXL.css": "8984b6afb816b04efa91e124aac1a444414640fc"
   },
