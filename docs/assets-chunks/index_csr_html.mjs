@@ -1,5 +1,5 @@
-<!doctype html>
-<html lang="en" data-beasties-container="">
+export default `<!doctype html>
+<html lang="es" data-beasties-container="">
 <head>
   <meta charset="utf-8">
   <title>Proyecto</title>
@@ -8,9 +8,11 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="manifest" href="manifest.webmanifest">
+  <link rel="manifest" href="manifest.webmanifest">
 <style>body{font-family:Arial,sans-serif;margin:0;background-color:#f9f9f9;color:#333}</style><link rel="stylesheet" href="styles-AOQDVPMI.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-AOQDVPMI.css"></noscript></head>
 <body ngcm="">
   <app-root></app-root>
-  <noscript>Please enable JavaScript to continue using this application.</noscript>
-<script src="main-SSZT4TBW.js" type="module"></script></body>
+  <noscript>Habilita JavaScript para continuar usando esta aplicación.</noscript>
+<script src="main-SOAZ3SMW.js" type="module"></script></body>
 </html>
+`;
