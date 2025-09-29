@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1759120172032,
+  "timestamp": 1759124461770,
   "index": "/proyecto/index.csr.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/proyecto/index.html",
         "/proyecto/main-TUVB4JVP.js",
         "/proyecto/manifest.webmanifest",
-        "/proyecto/styles-VF4PMNXL.css"
+        "/proyecto/styles-CU64TEZ7.css"
       ],
       "patterns": []
     },
@@ -63,11 +63,11 @@
     "/proyecto/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/proyecto/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/proyecto/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/proyecto/index.csr.html": "a7012d9496f03b671f8ec8176e3d6a0b3032050a",
-    "/proyecto/index.html": "69e4f084c62086af75ef4733deb816cf71368eba",
+    "/proyecto/index.csr.html": "99cd7cab79398ccb675793bcb8b2345c7dc452b1",
+    "/proyecto/index.html": "a931116e6247a73e7d2207eb6b6adbb42b584e6b",
     "/proyecto/main-TUVB4JVP.js": "ecc7b909c9456d9ff0a69da9f3e56c04a0d2c9f2",
     "/proyecto/manifest.webmanifest": "fda88743228f8975d93af2c805686057df0c3ac6",
-    "/proyecto/styles-VF4PMNXL.css": "8984b6afb816b04efa91e124aac1a444414640fc"
+    "/proyecto/styles-CU64TEZ7.css": "d388b662a99432f2fcbed001db476d0d36ab4f2c"
   },
   "navigationUrls": [
     {
