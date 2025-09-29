@@ -6,6 +6,7 @@ import { Footer } from '../footer/footer';
 
 @Component({
   selector: 'app-inicio',
+  standalone: true,
   imports: [CommonModule, RouterModule, Footer, Navbar],
   templateUrl: './inicio.html',
   styleUrl: './inicio.scss'
